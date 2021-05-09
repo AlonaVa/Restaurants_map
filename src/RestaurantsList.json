@@ -1,0 +1,100 @@
+[
+    {
+       "restaurantName":"Margo",
+       "ID":"0",
+       "address":"Prikop 819, 60200 Brno",
+       "lat":49.199116,
+       "long":16.615105,
+       "ratings":[
+          {
+             "stars":5,
+             "comment":"Good assortiment."
+          },
+          {
+             "stars":5,
+             "comment":"Very Tasty Food!"
+          }
+       ]
+    },
+    {
+       "restaurantName":"Good choice",
+       "ID":"1",
+       "address":"Stara 56/10, 60200 Brno",
+       "lat":49.20089142882768,
+       "long":16.617106645901526,
+       "ratings":[
+          {
+             "stars":5,
+             "comment":"It is really a good choice!"
+          },
+          {
+             "stars":4,
+             "comment":"Not bad"
+          }
+       ]
+    },
+    {"restaurantName":"The Sun",
+            "ID":"2",
+            "address":"Merhautova 1065/214, 61300 Brno",
+            "lat":49.203710,
+            "long":16.618020,
+            "ratings":[
+               {
+                  "stars":2,
+                  "comment":"It was awfull"
+               },
+               {
+                  "stars":1,
+                  "comment":"Very bad"
+               }
+            ]
+        },
+    {"restaurantName":"Arabella",
+            "ID":"3",
+            "address":"Mendlovo nam. 686, 60300 Brno",
+            "lat":49.190870,
+            "long":16.594660,
+            "ratings":[
+               {
+                  "stars":5,
+                  "comment":"Excellent!"
+               },
+               {
+                  "stars":4,
+                  "comment":"Good location"
+               }
+            ]
+        },
+        {"restaurantName":"Bistro",
+                "ID":"4",
+                "address":"Sumavska 519/35, 60200 Brno",
+                "lat":49.209620,
+                "long":16.591730,
+                "ratings":[
+                   {
+                      "stars":5,
+                      "comment":"Fast and tasty."
+                   },
+                   {
+                      "stars":5,
+                      "comment":"My favorite"
+                   }
+                ]
+            },
+            {"restaurantName":"Baroko",
+               "ID":"5",
+               "address":"Píškova 1322, 635 00 Brno",
+               "lat":49.226990,
+               "long":16.523250,
+               "ratings":[
+                  {
+                     "stars":3,
+                     "comment":"My best"
+                  },
+                  {
+                     "stars":2,
+                     "comment":"Good dinner"
+                  }
+               ]
+           }
+ ]

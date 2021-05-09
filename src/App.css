@@ -1,0 +1,43 @@
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+  border: 3px solid gray;
+  display: flex;
+}
+
+.filter{
+  padding: 15px !important; 
+  margin: 15px !important;
+}
+
+.restaurant-card{
+  padding: 15px !important; 
+  margin: 15px !important;
+  background-color: #d4f7dd !important; 
+}
+
+body{
+  background-color: rgb(238, 212, 181);
+}
+
+.photo{
+  width: 100% !important;
+  height: auto !important;
+  text-align: center;
+}
+
+.button-add-review{
+  text-align: center !important;
+}
+
+.button-add-rev{
+  text-align: center !important;
+}
+
+.toast-add-review{
+  width:100% !important;
+  padding: 1% !important;
+  margin: 1% !important;
+  text-align: center !important;
+}
+
