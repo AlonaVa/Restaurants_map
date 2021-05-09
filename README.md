@@ -1,5 +1,9 @@
 This project was created for the Front-end path from online platform OpenClassrooms. 
 
+###### To see project online click the link below:
+
+https://alonava.github.io/Restaurants_map/
+
 Task for the project:
 ## Launch your own restaurant review site
 Requirements:
@@ -36,6 +40,4 @@ Requirements:
 - Use Google Places API to display additional restaurants in the map area
 - The information will not be saved if user leave the page (it will just be saved in memory for the duration of the visit)
 
-###### To see project online click the link below:
 
-https://alonava.github.io/Restaurants_map/
