@@ -1,4 +1,3 @@
-# Restaurants_map
 This project was created for the Front-end path from online platform OpenClassrooms. 
 
 Task for the project:
