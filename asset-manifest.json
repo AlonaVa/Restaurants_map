@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Restaurants_map/static/css/main.df4122fa.chunk.css",
+    "main.js": "/Restaurants_map/static/js/main.0dfabd12.chunk.js",
+    "main.js.map": "/Restaurants_map/static/js/main.0dfabd12.chunk.js.map",
+    "runtime-main.js": "/Restaurants_map/static/js/runtime-main.c73167d9.js",
+    "runtime-main.js.map": "/Restaurants_map/static/js/runtime-main.c73167d9.js.map",
+    "static/css/2.8006b137.chunk.css": "/Restaurants_map/static/css/2.8006b137.chunk.css",
+    "static/js/2.38ecd207.chunk.js": "/Restaurants_map/static/js/2.38ecd207.chunk.js",
+    "static/js/2.38ecd207.chunk.js.map": "/Restaurants_map/static/js/2.38ecd207.chunk.js.map",
+    "index.html": "/Restaurants_map/index.html",
+    "static/css/2.8006b137.chunk.css.map": "/Restaurants_map/static/css/2.8006b137.chunk.css.map",
+    "static/css/main.df4122fa.chunk.css.map": "/Restaurants_map/static/css/main.df4122fa.chunk.css.map",
+    "static/js/2.38ecd207.chunk.js.LICENSE.txt": "/Restaurants_map/static/js/2.38ecd207.chunk.js.LICENSE.txt",
+    "static/media/myLocation.ced2fb83.webp": "/Restaurants_map/static/media/myLocation.ced2fb83.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c73167d9.js",
+    "static/css/2.8006b137.chunk.css",
+    "static/js/2.38ecd207.chunk.js",
+    "static/css/main.df4122fa.chunk.css",
+    "static/js/main.0dfabd12.chunk.js"
+  ]
+}
